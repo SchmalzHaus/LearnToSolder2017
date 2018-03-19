@@ -1,20 +1,18 @@
 # LearnToSolder2017
 
-UNDER CONSTUCTION
-
+![Learn To Solder 2017 Board, assembled](https://github.com/SchmalzHaus/LearnToSolder2017/raw/master/pics/AssembledBoardFrontsm.png "Learn To Solder 2017 Board, assembled")
 
 ## Introduction
 
-For the past couple years, Deanna Schmalz has designed a simple circuit board which we then use to teach learn to solder classes. We  make enough boards and buy enough parts to teach all of the 4th graders at Glen Lake Elementary School in Minnetonka Minnesota, USA how to solder. 
+For the past couple years, Deanna Schmalz has designed a simple circuit board which we then use to teach learn to solder classes. We  make enough boards and buy enough parts to teach all of the 4th graders at Glen Lake Elementary School in Minnetonka Minnesota, USA how to solder.
 
 This site contains all of the information related to this year's Learn To Solder board. If you want to learn more about how to solder, if you want to know what you need to purchase so you can solder at home, or if you want to make more of these boards for yourself or your organization, this site has everything you'll need.
 
 If you want to reach Brian Schmalz (brian@schmalzaus.com) or Deanna (deanna@schmalzhaus.com) to ask us any questions, please do so. 
 
-This same board design was used at our booth at the 2016 MSP Mini Maker Faire, with one small change in the silk screen text. If you got a board from us at the Maker Faire, all of this information applies as well.
-
 All text files and designs on this site are Open Source. You are free to use these files and do whatever you wish with them.
 
+![Bare Board, back and front](https://github.com/SchmalzHaus/LearnToSolder2017/raw/master/pics/BoardFrontAdnBacksm.png "Bare Board, back and front")
 
 ## LearnToSolder 2017 Kit Contents
 
